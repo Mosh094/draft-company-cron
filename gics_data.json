@@ -1,0 +1,1117 @@
+[
+    {
+        "S/N": "1",
+        "gics_sectors": "Energy",
+        "gics_industry_groups": " Energy",
+        "gics_industries": "Energy Equipment & Services",
+        "gics_sub_industries": "Oil & Gas Drilling"
+    },
+    {
+        "S/N": "2",
+        "gics_sectors": "Energy",
+        "gics_industry_groups": " Energy",
+        "gics_industries": "Energy Equipment & Services",
+        "gics_sub_industries": "Oil & Gas Equipment & Services"
+    },
+    {
+        "S/N": "3",
+        "gics_sectors": "Energy",
+        "gics_industry_groups": " Energy",
+        "gics_industries": "Oil, Gas & Consumable Fuels",
+        "gics_sub_industries": "Integrated Oil & Gas"
+    },
+    {
+        "S/N": "4",
+        "gics_sectors": "Energy",
+        "gics_industry_groups": " Energy",
+        "gics_industries": "Oil, Gas & Consumable Fuels",
+        "gics_sub_industries": "Oil & Gas Exploration & Production"
+    },
+    {
+        "S/N": "5",
+        "gics_sectors": "Energy",
+        "gics_industry_groups": " Energy",
+        "gics_industries": "Oil, Gas & Consumable Fuels",
+        "gics_sub_industries": "Oil & Gas Refining & Marketing"
+    },
+    {
+        "S/N": "6",
+        "gics_sectors": "Energy",
+        "gics_industry_groups": " Energy",
+        "gics_industries": "Oil, Gas & Consumable Fuels",
+        "gics_sub_industries": "Oil & Gas Storage & Transportation"
+    },
+    {
+        "S/N": "7",
+        "gics_sectors": "Energy",
+        "gics_industry_groups": " Energy",
+        "gics_industries": "Oil, Gas & Consumable Fuels",
+        "gics_sub_industries": "Coal & Consumable Fuels"
+    },
+    {
+        "S/N": "8",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Chemicals",
+        "gics_sub_industries": "Commodity Chemicals"
+    },
+    {
+        "S/N": "9",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Chemicals",
+        "gics_sub_industries": "Diversified Chemicals"
+    },
+    {
+        "S/N": "10",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Chemicals",
+        "gics_sub_industries": "Fertilizers & Agricultural Chemicals"
+    },
+    {
+        "S/N": "11",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Chemicals",
+        "gics_sub_industries": "Industrial Gases"
+    },
+    {
+        "S/N": "12",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Chemicals",
+        "gics_sub_industries": "Specialty Chemicals"
+    },
+    {
+        "S/N": "13",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Construction Materials",
+        "gics_sub_industries": "Construction Materials"
+    },
+    {
+        "S/N": "14",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Containers & Packaging",
+        "gics_sub_industries": "Metal & Glass Containers"
+    },
+    {
+        "S/N": "15",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Containers & Packaging",
+        "gics_sub_industries": "Paper Packaging"
+    },
+    {
+        "S/N": "16",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Metals & Mining",
+        "gics_sub_industries": "Aluminum"
+    },
+    {
+        "S/N": "17",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Metals & Mining",
+        "gics_sub_industries": "Diversified Metals & Mining"
+    },
+    {
+        "S/N": "18",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Metals & Mining",
+        "gics_sub_industries": "Copper"
+    },
+    {
+        "S/N": "19",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Metals & Mining",
+        "gics_sub_industries": "Gold"
+    },
+    {
+        "S/N": "20",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Metals & Mining",
+        "gics_sub_industries": "Precious Metals & Minerals"
+    },
+    {
+        "S/N": "21",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Metals & Mining",
+        "gics_sub_industries": "Silver"
+    },
+    {
+        "S/N": "22",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Metals & Mining",
+        "gics_sub_industries": "Steel"
+    },
+    {
+        "S/N": "23",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Paper & Forest Products",
+        "gics_sub_industries": "Forest Products"
+    },
+    {
+        "S/N": "24",
+        "gics_sectors": "Materials",
+        "gics_industry_groups": "Materials",
+        "gics_industries": "Paper & Forest Products",
+        "gics_sub_industries": "Paper Products"
+    },
+    {
+        "S/N": "25",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Aerospace & Defense",
+        "gics_sub_industries": "Aerospace & Defense"
+    },
+    {
+        "S/N": "26",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Building Products",
+        "gics_sub_industries": "Building Products"
+    },
+    {
+        "S/N": "27",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Construction & Engineering",
+        "gics_sub_industries": "Construction & Engineering"
+    },
+    {
+        "S/N": "28",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Electrical Equipment",
+        "gics_sub_industries": "Electrical Components & Equipment"
+    },
+    {
+        "S/N": "29",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Electrical Equipment",
+        "gics_sub_industries": "Heavy Electrical Equipment"
+    },
+    {
+        "S/N": "30",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Industrial Conglomerates",
+        "gics_sub_industries": "Industrial Conglomerates"
+    },
+    {
+        "S/N": "31",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Machinery",
+        "gics_sub_industries": "Construction Machinery & Heavy Trucks"
+    },
+    {
+        "S/N": "32",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Machinery",
+        "gics_sub_industries": "Agricultural & Farm Machinery"
+    },
+    {
+        "S/N": "33",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Machinery",
+        "gics_sub_industries": "Industrial Machinery"
+    },
+    {
+        "S/N": "34",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Capital goods",
+        "gics_industries": "Trading Companies & Distributors",
+        "gics_sub_industries": "Trading Companies & Distributors"
+    },
+    {
+        "S/N": "35",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Commercial & Professional Services",
+        "gics_industries": "Commercial Services & Supplies",
+        "gics_sub_industries": "Commercial Printing"
+    },
+    {
+        "S/N": "36",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Commercial & Professional Services",
+        "gics_industries": "Commercial Services & Supplies",
+        "gics_sub_industries": "Environmental & Facilities Services"
+    },
+    {
+        "S/N": "37",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Commercial & Professional Services",
+        "gics_industries": "Commercial Services & Supplies",
+        "gics_sub_industries": "Office Services & Supplies"
+    },
+    {
+        "S/N": "38",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Commercial & Professional Services",
+        "gics_industries": "Commercial Services & Supplies",
+        "gics_sub_industries": "Diversified Support Services"
+    },
+    {
+        "S/N": "39",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Commercial & Professional Services",
+        "gics_industries": "Commercial Services & Supplies",
+        "gics_sub_industries": "Security & Alarm Services"
+    },
+    {
+        "S/N": "40",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Commercial & Professional Services",
+        "gics_industries": "Professional Services",
+        "gics_sub_industries": "Human Resource & Employment Services"
+    },
+    {
+        "S/N": "41",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Commercial & Professional Services",
+        "gics_industries": "Professional Services",
+        "gics_sub_industries": "Research & Consulting Services"
+    },
+    {
+        "S/N": "42",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Air Freight & Logistics",
+        "gics_sub_industries": "Air Freight & Logistics"
+    },
+    {
+        "S/N": "43",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Airlines",
+        "gics_sub_industries": "Airlines"
+    },
+    {
+        "S/N": "44",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Marine",
+        "gics_sub_industries": "Marine"
+    },
+    {
+        "S/N": "45",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Road & Rail",
+        "gics_sub_industries": "Railroads"
+    },
+    {
+        "S/N": "46",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Road & Rail",
+        "gics_sub_industries": "Trucking"
+    },
+    {
+        "S/N": "47",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Transportation Infrastructure",
+        "gics_sub_industries": "Airport Services"
+    },
+    {
+        "S/N": "48",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Transportation Infrastructure",
+        "gics_sub_industries": "Highways & Railtracks"
+    },
+    {
+        "S/N": "49",
+        "gics_sectors": " Industrials",
+        "gics_industry_groups": "Transportation",
+        "gics_industries": "Transportation Infrastructure",
+        "gics_sub_industries": "Marine Ports & Services"
+    },
+    {
+        "S/N": "50",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Automobiles & Components",
+        "gics_industries": "Auto Components",
+        "gics_sub_industries": "Auto Parts & Equipment"
+    },
+    {
+        "S/N": "51",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Automobiles & Components",
+        "gics_industries": "Auto Components",
+        "gics_sub_industries": "Tires & Rubber"
+    },
+    {
+        "S/N": "52",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Automobiles & Components",
+        "gics_industries": "Automobiles",
+        "gics_sub_industries": " Automobile Manufacturers"
+    },
+    {
+        "S/N": "53",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Automobiles & Components",
+        "gics_industries": "Automobiles",
+        "gics_sub_industries": "Motorcycle Manufacturers"
+    },
+    {
+        "S/N": "54",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Household Durables",
+        "gics_sub_industries": "Consumer Electronics"
+    },
+    {
+        "S/N": "55",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Household Durables",
+        "gics_sub_industries": "Home Furnishings"
+    },
+    {
+        "S/N": "56",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Household Durables",
+        "gics_sub_industries": "Homebuilding"
+    },
+    {
+        "S/N": "57",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Household Durables",
+        "gics_sub_industries": "Household Appliances"
+    },
+    {
+        "S/N": "58",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Household Durables",
+        "gics_sub_industries": "Housewares & Specialties"
+    },
+    {
+        "S/N": "59",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Leisure Products",
+        "gics_sub_industries": "Leisure Products"
+    },
+    {
+        "S/N": "60",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Textiles, Apparel & Luxury Goods",
+        "gics_sub_industries": "Apparel, Accessories & Luxury Goods"
+    },
+    {
+        "S/N": "61",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Textiles, Apparel & Luxury Goods",
+        "gics_sub_industries": "Footwear"
+    },
+    {
+        "S/N": "62",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Durables & Apparel",
+        "gics_industries": "Textiles, Apparel & Luxury Goods",
+        "gics_sub_industries": "Textiles"
+    },
+    {
+        "S/N": "63",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Services",
+        "gics_industries": "Hotels, Restaurants & Leisure",
+        "gics_sub_industries": "Casinos & Gaming"
+    },
+    {
+        "S/N": "64",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Services",
+        "gics_industries": "Hotels, Restaurants & Leisure",
+        "gics_sub_industries": "Hotels, Resorts & Cruise Lines"
+    },
+    {
+        "S/N": "65",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Services",
+        "gics_industries": "Hotels, Restaurants & Leisure",
+        "gics_sub_industries": "Leisure Facilities"
+    },
+    {
+        "S/N": "66",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Services",
+        "gics_industries": "Hotels, Restaurants & Leisure",
+        "gics_sub_industries": "Restaurants"
+    },
+    {
+        "S/N": "67",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Services",
+        "gics_industries": "Diversified Consumer Services",
+        "gics_sub_industries": "Education Services"
+    },
+    {
+        "S/N": "68",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": "Consumer Services",
+        "gics_industries": "Diversified Consumer Services",
+        "gics_sub_industries": "Specialized Consumer Services"
+    },
+    {
+        "S/N": "69",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Distributors",
+        "gics_sub_industries": "Distributors"
+    },
+    {
+        "S/N": "70",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Internet & Direct Marketing Retail",
+        "gics_sub_industries": "Internet & Direct Marketing Retail"
+    },
+    {
+        "S/N": "71",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Broadline Retail",
+        "gics_sub_industries": "Department Stores"
+    },
+    {
+        "S/N": "72",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Broadline Retail",
+        "gics_sub_industries": "General Merchandise Stores"
+    },
+    {
+        "S/N": "73",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Broadline Retail",
+        "gics_sub_industries": "Broadline Retail"
+    },
+    {
+        "S/N": "74",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Specialty Retail",
+        "gics_sub_industries": "Apparel Retail"
+    },
+    {
+        "S/N": "75",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Specialty Retail",
+        "gics_sub_industries": "Computer & Electronics Retail"
+    },
+    {
+        "S/N": "76",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Specialty Retail",
+        "gics_sub_industries": "Home Improvement Retail"
+    },
+    {
+        "S/N": "77",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Specialty Retail",
+        "gics_sub_industries": "Specialty Stores"
+    },
+    {
+        "S/N": "78",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Specialty Retail",
+        "gics_sub_industries": "Automotive Retail"
+    },
+    {
+        "S/N": "79",
+        "gics_sectors": " Consumer Discretionary",
+        "gics_industry_groups": " Retailing",
+        "gics_industries": "Specialty Retail",
+        "gics_sub_industries": "Homefurnishing Retail"
+    },
+    {
+        "S/N": "80",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food & Staples Retailing",
+        "gics_industries": "Food & Staples Retailing",
+        "gics_sub_industries": "Drug Retail"
+    },
+    {
+        "S/N": "81",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food & Staples Retailing",
+        "gics_industries": "Food & Staples Retailing",
+        "gics_sub_industries": "Food Distributors"
+    },
+    {
+        "S/N": "82",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food & Staples Retailing",
+        "gics_industries": "Food & Staples Retailing",
+        "gics_sub_industries": "Food Retail"
+    },
+    {
+        "S/N": "83",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food & Staples Retailing",
+        "gics_industries": "Food & Staples Retailing",
+        "gics_sub_industries": "Hypermarkets & Super Centers"
+    },
+    {
+        "S/N": "84",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food, Beverage & Tobacco",
+        "gics_industries": "Beverages",
+        "gics_sub_industries": "Brewers"
+    },
+    {
+        "S/N": "85",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food, Beverage & Tobacco",
+        "gics_industries": "Beverages",
+        "gics_sub_industries": "Distillers & Vintners"
+    },
+    {
+        "S/N": "86",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food, Beverage & Tobacco",
+        "gics_industries": "Beverages",
+        "gics_sub_industries": "Soft Drinks"
+    },
+    {
+        "S/N": "87",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food, Beverage & Tobacco",
+        "gics_industries": "Food Products",
+        "gics_sub_industries": "Agricultural Products"
+    },
+    {
+        "S/N": "88",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food, Beverage & Tobacco",
+        "gics_industries": "Food Products",
+        "gics_sub_industries": "Packaged Foods & Meats"
+    },
+    {
+        "S/N": "89",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": "Food, Beverage & Tobacco",
+        "gics_industries": "Tobacco",
+        "gics_sub_industries": "Tobacco"
+    },
+    {
+        "S/N": "90",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": " Household & Personal Products",
+        "gics_industries": "Household Products",
+        "gics_sub_industries": "Household Products"
+    },
+    {
+        "S/N": "91",
+        "gics_sectors": "Consumer Staples",
+        "gics_industry_groups": " Household & Personal Products",
+        "gics_industries": "Personal Products",
+        "gics_sub_industries": "Personal Products"
+    },
+    {
+        "S/N": "92",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": " Health Care Equipment & Services",
+        "gics_industries": "Health Care Equipment & Supplies",
+        "gics_sub_industries": "Health Care Equipment"
+    },
+    {
+        "S/N": "93",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": " Health Care Equipment & Services",
+        "gics_industries": "Health Care Equipment & Supplies",
+        "gics_sub_industries": "Health Care Supplies"
+    },
+    {
+        "S/N": "94",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": " Health Care Equipment & Services",
+        "gics_industries": "Health Care Providers & Services",
+        "gics_sub_industries": "Health Care Distributors"
+    },
+    {
+        "S/N": "95",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": " Health Care Equipment & Services",
+        "gics_industries": "Health Care Providers & Services",
+        "gics_sub_industries": "Health Care Services"
+    },
+    {
+        "S/N": "96",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": " Health Care Equipment & Services",
+        "gics_industries": "Health Care Providers & Services",
+        "gics_sub_industries": "Health Care Facilities"
+    },
+    {
+        "S/N": "97",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": " Health Care Equipment & Services",
+        "gics_industries": "Health Care Providers & Services",
+        "gics_sub_industries": "Managed Health Care"
+    },
+    {
+        "S/N": "98",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": " Health Care Equipment & Services",
+        "gics_industries": "Health Care Technology",
+        "gics_sub_industries": "Health Care Technology"
+    },
+    {
+        "S/N": "99",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "gics_industries": "Biotechnology",
+        "gics_sub_industries": "Biotechnology"
+    },
+    {
+        "S/N": "100",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "gics_industries": "Pharmaceuticals",
+        "gics_sub_industries": "Pharmaceuticals"
+    },
+    {
+        "S/N": "101",
+        "gics_sectors": "Health Care",
+        "gics_industry_groups": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "gics_industries": "Life Sciences Tools & Services",
+        "gics_sub_industries": "Life Sciences Tools & Services"
+    },
+    {
+        "S/N": "102",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Banks",
+        "gics_industries": "Banks",
+        "gics_sub_industries": "Diversified Banks"
+    },
+    {
+        "S/N": "103",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Banks",
+        "gics_industries": "Banks",
+        "gics_sub_industries": "Regional Banks"
+    },
+    {
+        "S/N": "104",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Banks",
+        "gics_industries": "Thrifts & Mortgage Finance",
+        "gics_sub_industries": "Thrifts & Mortgage Finance"
+    },
+    {
+        "S/N": "105",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Diversified Financial Services",
+        "gics_sub_industries": "Other Diversified Financial Services"
+    },
+    {
+        "S/N": "106",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Diversified Financial Services",
+        "gics_sub_industries": "Multi-Sector Holdings"
+    },
+    {
+        "S/N": "107",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Diversified Financial Services",
+        "gics_sub_industries": "Specialized Finance"
+    },
+    {
+        "S/N": "108",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Consumer Finance",
+        "gics_sub_industries": "Consumer Finance"
+    },
+    {
+        "S/N": "109",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Capital Markets",
+        "gics_sub_industries": "Asset Management & Custody Banks"
+    },
+    {
+        "S/N": "110",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Capital Markets",
+        "gics_sub_industries": "Investment Banking & Brokerage"
+    },
+    {
+        "S/N": "111",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Capital Markets",
+        "gics_sub_industries": "Diversified Capital Markets"
+    },
+    {
+        "S/N": "112",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Capital Markets",
+        "gics_sub_industries": "Financial Exchanges & Data"
+    },
+    {
+        "S/N": "113",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": "Diversified Financials",
+        "gics_industries": "Mortgage Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Mortgage REITs"
+    },
+    {
+        "S/N": "114",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": " Insurance",
+        "gics_industries": "Insurance",
+        "gics_sub_industries": "Insurance Brokers"
+    },
+    {
+        "S/N": "115",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": " Insurance",
+        "gics_industries": "Insurance",
+        "gics_sub_industries": "Life & Health Insurance"
+    },
+    {
+        "S/N": "116",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": " Insurance",
+        "gics_industries": "Insurance",
+        "gics_sub_industries": "Multi-line Insurance"
+    },
+    {
+        "S/N": "117",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": " Insurance",
+        "gics_industries": "Insurance",
+        "gics_sub_industries": "Property & Casualty Insurance"
+    },
+    {
+        "S/N": "118",
+        "gics_sectors": "Financials",
+        "gics_industry_groups": " Insurance",
+        "gics_industries": "Insurance",
+        "gics_sub_industries": "Reinsurance"
+    },
+    {
+        "S/N": "119",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Software & Services",
+        "gics_industries": "IT Services",
+        "gics_sub_industries": "IT Consulting & Other Services"
+    },
+    {
+        "S/N": "120",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Software & Services",
+        "gics_industries": "IT Services",
+        "gics_sub_industries": "Data Processing & Outsourced Services"
+    },
+    {
+        "S/N": "121",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Software & Services",
+        "gics_industries": "IT Services",
+        "gics_sub_industries": "Internet Services & Infrastructure"
+    },
+    {
+        "S/N": "122",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Software & Services",
+        "gics_industries": "Software",
+        "gics_sub_industries": "Application Software"
+    },
+    {
+        "S/N": "123",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Software & Services",
+        "gics_industries": "Software",
+        "gics_sub_industries": "Systems Software"
+    },
+    {
+        "S/N": "124",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Technology Hardware & Equipment",
+        "gics_industries": "Communications Equipment",
+        "gics_sub_industries": "Communications Equipment"
+    },
+    {
+        "S/N": "125",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Technology Hardware & Equipment",
+        "gics_industries": "Technology Hardware, Storage & Peripherals",
+        "gics_sub_industries": "Technology Hardware, Storage & Peripherals"
+    },
+    {
+        "S/N": "126",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Technology Hardware & Equipment",
+        "gics_industries": "Electronic Equipment, Instruments & Components",
+        "gics_sub_industries": "Electronic Equipment & Instruments"
+    },
+    {
+        "S/N": "127",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Technology Hardware & Equipment",
+        "gics_industries": "Electronic Equipment, Instruments & Components",
+        "gics_sub_industries": "Electronic Components"
+    },
+    {
+        "S/N": "128",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Technology Hardware & Equipment",
+        "gics_industries": "Electronic Equipment, Instruments & Components",
+        "gics_sub_industries": "Electronic Manufacturing Services"
+    },
+    {
+        "S/N": "129",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Technology Hardware & Equipment",
+        "gics_industries": "Electronic Equipment, Instruments & Components",
+        "gics_sub_industries": "Technology Distributors"
+    },
+    {
+        "S/N": "130",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Semiconductors & Semiconductor Equipment",
+        "gics_industries": "Semiconductors & Semiconductor Equipment",
+        "gics_sub_industries": "Semiconductor Equipment"
+    },
+    {
+        "S/N": "131",
+        "gics_sectors": " Information Technology",
+        "gics_industry_groups": "Semiconductors & Semiconductor Equipment",
+        "gics_industries": "Semiconductors & Semiconductor Equipment",
+        "gics_sub_industries": "Semiconductors"
+    },
+    {
+        "S/N": "132",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Telecommunication Services",
+        "gics_industries": "Diversified Telecommunication Services",
+        "gics_sub_industries": "Alternative Carriers"
+    },
+    {
+        "S/N": "133",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Telecommunication Services",
+        "gics_industries": "Diversified Telecommunication Services",
+        "gics_sub_industries": "Integrated Telecommunication Services"
+    },
+    {
+        "S/N": "134",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Telecommunication Services",
+        "gics_industries": "Wireless Telecommunication Services",
+        "gics_sub_industries": "Wireless Telecommunication Services"
+    },
+    {
+        "S/N": "135",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Media & Entertainment",
+        "gics_industries": "Media",
+        "gics_sub_industries": "Advertising"
+    },
+    {
+        "S/N": "136",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Media & Entertainment",
+        "gics_industries": "Media",
+        "gics_sub_industries": "Broadcasting"
+    },
+    {
+        "S/N": "137",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Media & Entertainment",
+        "gics_industries": "Media",
+        "gics_sub_industries": "Cable & Satellite"
+    },
+    {
+        "S/N": "138",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Media & Entertainment",
+        "gics_industries": "Media",
+        "gics_sub_industries": "Publishing"
+    },
+    {
+        "S/N": "139",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Media & Entertainment",
+        "gics_industries": "Entertainment",
+        "gics_sub_industries": "Movies & Entertainment"
+    },
+    {
+        "S/N": "140",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Media & Entertainment",
+        "gics_industries": "Entertainment",
+        "gics_sub_industries": "Interactive Home Entertainment"
+    },
+    {
+        "S/N": "141",
+        "gics_sectors": " Communication Services",
+        "gics_industry_groups": "Media & Entertainment",
+        "gics_industries": "Interactive Media & Services",
+        "gics_sub_industries": "Interactive Media & Services"
+    },
+    {
+        "S/N": "142",
+        "gics_sectors": "Utilities",
+        "gics_industry_groups": "Utilities",
+        "gics_industries": "Electric Utilities",
+        "gics_sub_industries": "Electric Utilities"
+    },
+    {
+        "S/N": "143",
+        "gics_sectors": "Utilities",
+        "gics_industry_groups": "Utilities",
+        "gics_industries": "Gas Utilities",
+        "gics_sub_industries": "Gas Utilities"
+    },
+    {
+        "S/N": "144",
+        "gics_sectors": "Utilities",
+        "gics_industry_groups": "Utilities",
+        "gics_industries": "Multi-Utilities",
+        "gics_sub_industries": "Multi-Utilities"
+    },
+    {
+        "S/N": "145",
+        "gics_sectors": "Utilities",
+        "gics_industry_groups": "Utilities",
+        "gics_industries": "Water Utilities",
+        "gics_sub_industries": "Water Utilities"
+    },
+    {
+        "S/N": "146",
+        "gics_sectors": "Utilities",
+        "gics_industry_groups": "Utilities",
+        "gics_industries": "Independent Power and Renewable Electricity Producers",
+        "gics_sub_industries": "Independent Power Producers & Energy Traders"
+    },
+    {
+        "S/N": "147",
+        "gics_sectors": "Utilities",
+        "gics_industry_groups": "Utilities",
+        "gics_industries": "Independent Power and Renewable Electricity Producers",
+        "gics_sub_industries": "Renewable Electricity"
+    },
+    {
+        "S/N": "148",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Diversified REITs"
+    },
+    {
+        "S/N": "149",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Industrial REITs"
+    },
+    {
+        "S/N": "150",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Hotel & Resort REITs"
+    },
+    {
+        "S/N": "151",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Office REITs"
+    },
+    {
+        "S/N": "152",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Health Care REITs"
+    },
+    {
+        "S/N": "153",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Residential REITs"
+    },
+    {
+        "S/N": "154",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Retail REITs"
+    },
+    {
+        "S/N": "155",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Equity Real Estate Investment Trusts (REITs)",
+        "gics_sub_industries": "Specialized REITs"
+    },
+    {
+        "S/N": "156",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Real Estate Management & Development",
+        "gics_sub_industries": "Diversified Real Estate Activities"
+    },
+    {
+        "S/N": "157",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Real Estate Management & Development",
+        "gics_sub_industries": "Real Estate Operating Companies"
+    },
+    {
+        "S/N": "158",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Real Estate Management & Development",
+        "gics_sub_industries": "Real Estate Development"
+    },
+    {
+        "S/N": "159",
+        "gics_sectors": "Real Estate",
+        "gics_industry_groups": "Real Estate",
+        "gics_industries": "Real Estate Management & Development",
+        "gics_sub_industries": "Real Estate Services"
+    }
+]
+
+
