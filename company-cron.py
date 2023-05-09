@@ -39,7 +39,7 @@ DB_PASSWORD = "797dbf4dcf91d5c399df0a719cf7d73c99f6fb3bc09d7fc384627833e89ca9f9"
 DB_HOST = "ec2-34-197-84-74.compute-1.amazonaws.com"
 DB_PORT = "5432"
 
-# Setting OpenAI API key
+# Setting OpenAI API-key
 openai.api_key = "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"
 
 
