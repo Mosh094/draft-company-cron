@@ -143,14 +143,15 @@ def main():
                 for entry in gics_data:
                     if entry["gics_sub_industries"] == gics_sub_industries:
                         update_data(id, "gics_sectors", entry["gics_sectors"])
-                        update_data(id, "gics_industry_groups",
-                                    entry["gics_industry_groups"])
-                        update_data(id, "gics_industries",
-                                    entry["gics_industries"])
-                        update_data(id, "gics_sub_industries",
-                                    entry["gics_sub_industries"])
+                        update_data(id, "gics_industry_groups", entry["gics_industry_groups"])
+                        update_data(id, "gics_industries", entry["gics_industries"])
+                        update_data(id, "gics_sub_industries", entry["gics_sub_industries"])
                         break
 
-
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print(f"Error: {e}")
+        import traceback
+        print(traceback.format_exc())
