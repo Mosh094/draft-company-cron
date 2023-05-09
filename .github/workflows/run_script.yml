@@ -1,4 +1,4 @@
-name: Run Python script twice daily
+name: Run Python script twice-daily
 
 on:
   push:
