@@ -40,7 +40,7 @@ DB_HOST = "ec2-34-197-84-74.compute-1.amazonaws.com"
 DB_PORT = "5432"
 
 # Setting OpenAI API-key
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 def get_missing_data():
