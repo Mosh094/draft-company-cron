@@ -39,8 +39,13 @@ DB_PASSWORD = "797dbf4dcf91d5c399df0a719cf7d73c99f6fb3bc09d7fc384627833e89ca9f9"
 DB_HOST = "ec2-34-197-84-74.compute-1.amazonaws.com"
 DB_PORT = "5432"
 
+<<<<<<< HEAD
 # Setting OpenAI API key
 openai.api_key = "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"
+=======
+# Setting OpenAI API-key
+openai.api_key = "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"
+>>>>>>> 8a711d982f48559770055d80293f210d56bafa2f
 
 
 def get_missing_data():
@@ -143,14 +148,10 @@ def main():
                 for entry in gics_data:
                     if entry["gics_sub_industries"] == gics_sub_industries:
                         update_data(id, "gics_sectors", entry["gics_sectors"])
-                        update_data(id, "gics_industry_groups",
-                                    entry["gics_industry_groups"])
-                        update_data(id, "gics_industries",
-                                    entry["gics_industries"])
-                        update_data(id, "gics_sub_industries",
-                                    entry["gics_sub_industries"])
+                        update_data(id, "gics_industry_groups", entry["gics_industry_groups"])
+                        update_data(id, "gics_industries", entry["gics_industries"])
+                        update_data(id, "gics_sub_industries", entry["gics_sub_industries"])
                         break
-
 
 if __name__ == "__main__":
     try:
