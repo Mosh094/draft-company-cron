@@ -32,7 +32,7 @@ def find_and_validate_gics_value(gics_response, gics_data, gics_column):
     return None
 
 
-# Updating database credentials
+# Updating database credential
 DB_NAME = "df7n96sahm849q"
 DB_USER = "ejesvaacpduvgt"
 DB_PASSWORD = "797dbf4dcf91d5c399df0a719cf7d73c99f6fb3bc09d7fc384627833e89ca9f9"
