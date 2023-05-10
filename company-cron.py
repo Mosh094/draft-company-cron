@@ -4,6 +4,9 @@ import os
 import re
 from urllib.parse import urlparse
 import json
+from dotenv import load_dotenv
+
+DATABASE_URL = os.getenv("DATABASE_URL")
 
 
 def load_gics_data(json_file):
